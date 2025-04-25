@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ...Image generation in general (ComfyUI)
 - 💞️ I’m looking to collaborate on ...anything I can help with my limited knowledge
 - 📫 How to reach me ...drop me an email
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...I try to make life fun.
+
 
 <!---
 Jonsuk/Jonsuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
