@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Jonsuk
-- 👀 I’m interested in ...Image generation in general (beginer)
-- 🌱 I’m currently learning ...Image generation in general (ComfyUI)
-- 💞️ I’m looking to collaborate on ...anything I can help with my limited knowledge
+- 👋 Hi, Jonsuk here.
 - 📫 How to reach me ...drop me an email
 
 
